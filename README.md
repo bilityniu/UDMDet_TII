@@ -47,7 +47,7 @@ udmdet
 │   ├── DUO
 │   │   ├── annotaions
 │   │   ├── train2017
-│   │   ├── val2017
+│   │   ├── test2017
 ```
 
 
